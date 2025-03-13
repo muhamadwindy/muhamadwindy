@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhamad Windy Sulistiyo</h1>
 <h3 align="center">A passionate software developer from Indonesia</h3>
 <p> 
-  I love developing websites or applications with beautiful interfaces, high functionality and good user experience. I have experience in developing applications for BUMN and private companies, particularly in financial and banking business processes using ASP.NET, C#, and SQL Server. Currently, I'm learning everything about Frontend and Backend technologies.
+I love developing websites and applications with beautiful interfaces, high functionality, and a great user experience. I have experience in developing applications for both BUMN (State-Owned Enterprises), government institutions in the financial sector, and private companies, particularly in financial and banking business processes, using ASP.NET, C#, and SQL Server. Currently, I'm learning everything about both Frontend and Backend technologies.
 </p>
 
 ###### Connect with me:
@@ -11,23 +11,27 @@
 &nbsp;&nbsp;&nbsp; 
 <a href="https://api.whatsapp.com/send/?phone=6285640229650&text=Halo+Muhamad+Windy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/50px-WhatsApp_logo-color-vertical.svg.png" alt="mwsulistiyo" height="30" width="30" /></a>
 <br />  
-## 🛠 Tech Stack
-#### Programming Language and Framework
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png" />
-<img align="left" alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="NextJS" width="26px" src="https://camo.githubusercontent.com/39791c3e4c4387b8b913628a8f258768ea3a4a71fc815ced2219f81c22c71f6a/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67"/>
-<img align="left" alt="sql server" width="36px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
-<img align="left" alt="MySQL" width="36px" src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" />
-<img align="left" alt="Firebase" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/120px-Firebase_icon.svg.png" />
-<img align="left" alt="Bootstrap" width="36px" src="https://avatars.githubusercontent.com/u/2918581?s=48&v=4" />
-<img align="left" alt="Tailwind" width="36px" src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4" />
-<br /> 
+<br />  
 
-#### Tools
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Github" width="26px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" />
+## 🛠 Tech Stack
+- #### Programming Language and Framework
+  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+  <img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" />
+  <img align="left" alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <img align="left" alt="NextJS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nextjs-icon-512x309-yynfidez.png/220px-Nextjs-icon-512x309-yynfidez.png"/>
+  <img align="left" alt="sql server" width="36px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
+  <img align="left" alt="MySQL" width="36px" src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" />
+  <img align="left" alt="Firebase" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/120px-Firebase_icon.svg.png" />
+  <img align="left" alt="Bootstrap" width="36px" src="https://avatars.githubusercontent.com/u/2918581?s=48&v=4" />
+  <img align="left" alt="Tailwind" width="36px" src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4" />
+  <br /> 
+
+- #### Tools
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/193px-Visual_Studio_Icon_2022.svg.png" />
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img align="left" alt="Github" width="26px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" />
+<br />  
 <br />  
 
 ## 🏆 Certifications  
@@ -41,11 +45,13 @@
   <img width="100px" src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/commons/certificate_logo.png" alt="Fundamental Front End Development" />
 </a> 
 <br />  
+<br />  
 
 ## ✍️ Publication
 <a target="_blank" href="https://solidstatetechnology.us/index.php/JSST/article/view/2763">   
   Smart Agriculture Using Internet of Things Technology to Improve Agricultural Productivity
 </a>
+<br />  
 <br />  
 
 ## 👨🏻‍💻 Github Stats
